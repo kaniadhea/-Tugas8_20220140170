@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url('dieng.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 300px; /* Adjust as needed */
+  }
+  
