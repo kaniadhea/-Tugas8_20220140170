@@ -1,7 +1,14 @@
-.bg-image {
-    background-image: url('dieng.jpg');
-    background-size: cover;
-    background-position: center;
-    min-height: 300px; /* Adjust as needed */
-  }
-  
+/* styles.css */
+
+/* Adjust image styles */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Remove default list styling for footer */
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
